@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterSentToSAP2", "TesterSentToSAP2\TesterSentToSAP2.csproj", "{B135E0D7-F119-4C8F-B6A7-7D2A9DE46F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B135E0D7-F119-4C8F-B6A7-7D2A9DE46F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B135E0D7-F119-4C8F-B6A7-7D2A9DE46F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B135E0D7-F119-4C8F-B6A7-7D2A9DE46F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B135E0D7-F119-4C8F-B6A7-7D2A9DE46F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4649C2F9-9256-49FF-BC56-96FA4AFA143E}
+	EndGlobalSection
+EndGlobal
